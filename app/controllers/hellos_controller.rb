@@ -3,6 +3,7 @@ class HellosController < ApplicationController
 
   # GET /hellos or /hellos.json
   def index
+    set_hello
 
   end
 
