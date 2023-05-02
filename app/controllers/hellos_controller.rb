@@ -3,7 +3,9 @@ class HellosController < ApplicationController
 
   # GET /hellos or /hellos.json
   def index
+
     new
+
   end
 
   # GET /hellos/1 or /hellos/1.json
